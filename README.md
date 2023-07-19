@@ -23,8 +23,8 @@
 
 ## 📸 *Imagens do Projeto*
 
-<p align="center"><img src="https://github.com/bruno-pisciotta281/PHP_CRUD01/blob/main/CRUD_cadastro.PNG" width="800px;"/></p>
-<p align="center"><img src="https://github.com/bruno-pisciotta281/PHP_CRUD01/blob/main/crud_usuarios.PNG" width="800px;"/></p>
+<p align="center"><img src="https://github.com/bruno-pisciotta281/PHP_CRUD01/blob/main/CRUD_cadastro.PNG" width="600px;"/></p>
+<p align="center"><img src="https://github.com/bruno-pisciotta281/PHP_CRUD01/blob/main/crud_usuarios.PNG" width="600px;"/></p>
 
 ## &#128221; *Content*
 - [x] readme.md - Arquivo onde contém informações sobre o Projeto.
